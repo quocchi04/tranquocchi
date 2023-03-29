@@ -1,0 +1,98 @@
+# tranquocchi
+.top ul li{    
+    list-style: none;
+    }
+    .top {     
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .top .Tieu-de {
+        display: flex;
+        justify-content:space-between;
+        margin-left:20px;
+        font-size: 30px;
+        margin-right:10%;
+    }
+    .top .Tieu-de .List{
+        margin-right: 30px;
+    }
+    .banner img {
+        width: 100%;
+    }
+    .cafegory ul li{
+        position: absolute;
+    }
+    .cafegory {
+        display: flex;
+        justify-content: center;
+    }
+    .cafegory .item img{
+        height: 360px;
+        width: 240px;
+        width: 100%;
+    }
+    .cafegory .item{
+      position:relative;
+     
+    }
+    .cafegory .item p{
+        position: absolute;
+        bottom: 20px;
+        left: 155px;
+        font-size: 25px;
+    }
+
+    .shar-room .item{
+        position: relative;
+
+    }
+    .paf {
+        font-size: 30px;
+        margin-left: 13rem;
+    }
+    .shar-room .item img{
+        height: 445px;
+        width: 300px;
+        width: 100%;
+    }
+    .shar-room{
+        display: flex;
+        justify-content: center;
+    } 
+       .shar-room .item p{
+        position: absolute;
+        bottom: 12px;
+        left: 30%;
+        color: rgb(255, 255, 255);
+        text-decoration: dashed;
+        font-size: 40px;
+    }
+    .support{
+        display: flex;
+        justify-content: space-around;
+        font-size: 20px;
+        margin-top: 2%;
+        background-color: yellow;
+        padding-top: 20px;
+    }
+    .support .test1{
+        max-width: 25%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 60px;
+    }
+    .support .test2{
+        max-width: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content:right;
+    }
+    .support .test3{
+        max-width: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content:left;
+        margin-left: -100px;
+    }

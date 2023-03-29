@@ -1,0 +1,39 @@
+# tranquocchi
+*{
+    font-size: 4-px;
+    margin: 0PX;
+    padding: 0PX;
+    font-family: 'Sogoe UI',tahoma, Geneva, Verdama, sans-serif;
+}
+h6{
+    font-size: 1rem;
+    color: rgb(33, 33, 131);
+}
+h5{
+    font-size: 1rem;
+    color: rgb(35, 35, 228);
+}
+h3{
+    font-size: 1rem;
+    color: rgb(4, 4, 113);
+}
+h2{
+    font-size: 2rem;
+    color: rgb(127, 18, 18);
+}
+
+.text-title{
+        color: rgb(228, 9, 9);
+        text-align: center;
+}
+#bang_noi_quy{
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(63, 63, 210);
+    margin: 5px;
+    padding: 5px;
+}
+#bang_noi_quy > div{
+    border: 8px solid rgb(73, 73, 241);
+    padding: 10px 50px 200px;
+}

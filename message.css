@@ -1,0 +1,50 @@
+# tranquocchi
+
+.inner-top{
+   background:#ddd;
+   padding: 15px;
+   display: inline-flex;
+   margin-bottom: 40px;
+}
+.top-parent input{
+   border-radius: 8px;
+   border: transparent;
+   height: 30px;
+}
+.top-parent button{
+   border-radius: 40px;
+   padding: 8px 15px;
+   border: transparent;
+   color: #fff;
+   background: blue;
+   cursor: pointer;
+}
+
+i{
+ color: #0F92F1;   
+}
+.inner-bottom .bottom-left ul{
+   list-style: none;
+   padding: 0;
+   margin:0;
+   display: flex;
+}
+.bottom-left ul li{
+   margin-right: 15px;
+   font-size: 20px;
+   color: #0F92F1;
+}
+.inner-bottom{
+   display: flex;
+   border: 1px solid #ddd;
+   padding: 10px;
+}
+.bottom-center .center input{
+   border-radius: 8px;
+   border: transparent;
+   background: #ddd;
+   height: 30px;
+}
+.bottom-center .bottom-right{
+    i
+}
